@@ -1,118 +1,102 @@
-# ADFG Fish Count Data Repository
+# Alaska Fish Count Data
 
-## 🎯 **Purpose**
+## 🐟 **About This Repository**
 
-This repository contains **public fish count data** from the Alaska Department of Fish and Game (ADFG) Fish Counts Tool. The data is automatically updated via secure GitHub Actions workflows.
-
-## 🔒 **Security Architecture**
-
-### **Repository Structure**
-- **This Repository** (`[kb907alaska/adfg-fishcount](https://github.com/kb907alaska/adfg-data-fish-count)`): **Public** - Contains only JSON data files
-
-### **Why This Architecture?**
-- ✅ **Public Data Access**: JSON files are publicly accessible for CDN delivery
+This repository contains **public fish count data** from the Alaska Department of Fish and Game (ADFG). The data is automatically updated and provides real-time access to salmon and other fish counts across Alaska's monitoring stations.
 
 ## 📊 **Data Source**
 
-All data is automatically collected from:
-- **Source**: [ADFG Fish Counts Tool](https://www.adfg.alaska.gov/sf/FishCounts/index.cfm)
-- **Method**: Automated web scraping via GitHub Actions
-- **Frequency**: Every 30 minutes during fishing season
-- **Coverage**: 29 valid location-species combinations across Alaska
+- **Source**: [Alaska Department of Fish and Game Fish Counts](https://www.adfg.alaska.gov/sf/FishCounts/)
+- **Update Frequency**: Every 30 minutes during fishing season
+- **Coverage**: 69 monitoring stations across Alaska
+- **Species**: Chinook, Sockeye, Coho, Pink, Chum, and Steelhead
 
 ## 📁 **Data Structure**
 
 ```
-adfg-fishcount/
-├── README.md                    # This file
-├── manifest.json               # File index and metadata
-├── [LOCATION_ID]/              # Location folders (5, 9, 13, etc.)
+adfg-data-fish-count/
+├── [LOCATION_ID]/              # Location folders (1, 5, 13, etc.)
 │   └── [SPECIES_ID]/           # Species folders (410, 420, etc.)
 │       └── [YEAR]_[location]_[species].json
-└── ... (29 valid combinations)
+├── manifest.json               # File index and metadata
+└── logs/                       # Update logs
 ```
 
-### **File Naming Convention**
+### **File Naming Example**
 ```
-{year}_{location-name}_{species}.json
-Example: 2025_russian-river_sockeye-early-run.json
+5/410/2025_situk-river_chinook.json
 ```
 
-### **JSON Data Format**
+### **Data Format**
 ```json
 {
-  "LOCATION_ID": "13",
-  "SPECIES_ID": "421", 
-  "YEAR": 2025,
   "DATA": [
-    [1, "2025-07-01", 1250],
-    [2, "2025-07-02", 1340]
+    [2025, "2025-07-01", 1250],
+    [2025, "2025-07-02", 1340]
   ],
-  "last_updated": "2025-07-30T12:00:00Z"
+  "last_updated": "2025-07-31T12:00:00Z"
 }
 ```
 
-## 🔄 **Update Process**
+## 🌐 **Accessing the Data**
 
-### **Automated Updates**
-1. **Update Workflow**: Runs every 30 minutes
-2. **Data Collection**: Fetches fresh data from ADFG website
-3. **File Updates**: Updates JSON files in this repository
-4. **CDN Delivery**: Files immediately available via GitHub CDN
-
-### **Manual Updates**
-- **Force Update**: Trigger workflow with `force_update: true`
-- **Target Year**: Specify year with `target_year: "2025"`
-- **Manual Trigger**: Via GitHub Actions UI
-
-## 🌐 **CDN Access**
-
-### **Primary URLs**
+### **Direct Access**
 ```
-https://raw.githubusercontent.com/kb907alaska/adfg-fishcount/main/
-https://cdn.jsdelivr.net/gh/kb907alaska/adfg-fishcount@main/
+https://raw.githubusercontent.com/kb907alaska/adfg-data-fish-count/main/
 ```
 
-### **Example File Access**
+### **CDN Access**
 ```
-https://raw.githubusercontent.com/kb907alaska/adfg-fishcount/main/13/421/2025_russian-river_sockeye-early-run.json
+https://cdn.jsdelivr.net/gh/kb907alaska/adfg-data-fish-count@main/
 ```
 
-## 📈 **Data Coverage**
+### **Example File**
+```
+https://raw.githubusercontent.com/kb907alaska/adfg-data-fish-count/main/5/410/2025_situk-river_chinook.json
+```
 
-### **Locations (29 combinations)**
-- **Southeast**: Situk River, Russian River, etc.
-- **Southcentral**: Kenai River, Kasilof River, etc.
-- **Interior**: Chena River, Salcha River, etc.
-- **Southwest**: Buskin River, Pasagshak River, etc.
+## 📍 **Geographic Coverage**
 
-### **Species**
-- **Chinook Salmon** (410, 411, 412)
-- **Sockeye Salmon** (420, 421, 422)
-- **Coho Salmon** (430)
-- **Pink Salmon** (440)
-- **Chum Salmon** (450)
-- **Steelhead Trout** (540)
+### **Regions**
+- **Southeast Alaska**: Situk River, Russian River, Chilkat River
+- **Southcentral Alaska**: Kenai River, Kasilof River, Anchor River
+- **Interior Alaska**: Chena River, Salcha River, Gulkana River
+- **Southwest Alaska**: Buskin River, Pasagshak River, Egegik River
+- **Western Alaska**: Yukon River, Kvichak River, Naknek River
 
-### **Time Range**
-- **Historical**: Data back to 1950s
-- **Current**: 2025 season data
-- **Updates**: Real-time during fishing season
+### **Species Monitored**
+- **Chinook Salmon** (King Salmon)
+- **Sockeye Salmon** (Red Salmon)
+- **Coho Salmon** (Silver Salmon)
+- **Pink Salmon** (Humpy Salmon)
+- **Chum Salmon** (Dog Salmon)
+- **Steelhead Trout**
 
-## 🛡️ **Security Notes**
+## 📈 **Data Features**
 
-### **What's Public**
-- ✅ JSON fish count data files
-- ✅ README documentation
-- ✅ Manifest file (file index)
+- **Real-time Updates**: Data refreshed every 30 minutes
+- **Historical Data**: Records dating back to the 1950s
+- **Seasonal Coverage**: Full fishing season monitoring
+- **Public Access**: No authentication required
+- **CDN Optimized**: Fast global delivery
+
+## 🔄 **Automated Updates**
+
+This repository is automatically maintained through secure GitHub Actions workflows that:
+- Fetch fresh data from ADFG
+- Validate data quality
+- Update files in real-time
+- Maintain data integrity
 
 ## 📞 **Support**
 
 For questions about:
-- **Data**: Check this README and file structure
-- **Workflows**: Contact repository maintainers
-- **Access**: Use CDN URLs above
+- **Data Access**: Use the CDN URLs above
+- **File Structure**: Check the manifest.json file
+- **Technical Issues**: Contact repository maintainers
 
 ---
 
-**🎯 This repository provides clean, public access to ADFG fish count data while maintaining security through private automation workflows.** 
+**🎯 This repository provides clean, reliable access to Alaska's fish count data for researchers, developers, and the public.**
+
+*Data provided by the Alaska Department of Fish and Game* 
