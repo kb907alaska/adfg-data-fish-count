@@ -3,7 +3,7 @@
     "location_id": "5",
     "species_id": "540",
     "year": "2025",
-    "totalRecords": 67,
+    "totalRecords": 69,
     "totalCount": 5457,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:24:51.936474"
@@ -343,11 +343,21 @@
       2025,
       "07/28/2025",
       0
+    ],
+    [
+      2025,
+      "07/29/2025",
+      0
+    ],
+    [
+      2025,
+      "07/30/2025",
+      0
     ]
   ],
-  "last_updated": "2025-07-31T21:10:44.683038",
+  "last_updated": "2025-07-31T21:31:20.403627",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 2,
     "existing_records_updated": 0
   }
 }
