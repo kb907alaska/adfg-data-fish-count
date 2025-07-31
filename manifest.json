@@ -3092,13 +3092,13 @@
     "9/430/2023_anchor-river_coho.json",
     "9/430/2024_anchor-river_coho.json",
     "9/430/2025_anchor-river_coho-salmon-(silver).json",
-    "daily_changes_2025-07-31.json"
+    "logs/daily_changes_2025-07-31.json"
   ],
   "metadata": {
-    "generated": "2025-07-31T20:36:12.027261",
+    "generated": "2025-07-31T21:22:20.773129",
     "total_files": 3093,
     "naming_standards_enforced": true,
-    "repository": "adfg-fishcount",
+    "repository": "adfg-data-fish-count",
     "description": "Clean ADFG Fish Count Data - No Workflow History",
     "source": "Alaska Department of Fish and Game"
   }
