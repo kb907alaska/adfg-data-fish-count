@@ -7,7 +7,7 @@ This repository contains **public fish count data** from the Alaska Department o
 ## 🔒 **Security Architecture**
 
 ### **Repository Structure**
-- **This Repository** (`kb907alaska/adfg-fishcount`): **Public** - Contains only JSON data files
+- **This Repository** (`[kb907alaska/adfg-fishcount](https://github.com/kb907alaska/adfg-data-fish-count)`): **Public** - Contains only JSON data files
 
 ### **Why This Architecture?**
 - ✅ **Public Data Access**: JSON files are publicly accessible for CDN delivery
