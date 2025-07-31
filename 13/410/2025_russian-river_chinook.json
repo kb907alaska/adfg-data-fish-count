@@ -1,0 +1,32 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      2,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      2,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ]
+  ],
+  "last_updated": "2025-07-22T23:21:13.319956+00:00"
+}

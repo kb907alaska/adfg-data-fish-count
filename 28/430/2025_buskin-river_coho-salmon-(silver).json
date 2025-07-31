@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "location_id": "28",
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 1,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-07-31T20:28:57.895540"
+  },
+  "DATA": [
+    [
+      2025,
+      "07/30/2025",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      307,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      167,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "last_updated": "2025-07-26T21:32:59.749737+00:00"
+}
