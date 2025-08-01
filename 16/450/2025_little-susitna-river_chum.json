@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      307,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      167,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      712,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      204,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      439,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      646,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      494,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      648,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ]
+}

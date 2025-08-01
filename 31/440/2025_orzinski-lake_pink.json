@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      9,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      4,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      6,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      6,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      15,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      16,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      11,
+      440,
+      31,
+      "Orzinski Lake",
+      "Pink"
+    ]
+  ]
+}

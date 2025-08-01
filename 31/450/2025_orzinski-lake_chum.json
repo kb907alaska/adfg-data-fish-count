@@ -1,0 +1,22 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      2,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ]
+  ]
+}
