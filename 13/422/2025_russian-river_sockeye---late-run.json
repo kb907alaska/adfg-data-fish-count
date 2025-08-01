@@ -3,8 +3,8 @@
     "location_id": "13",
     "species_id": "422",
     "year": "2025",
-    "totalRecords": 32,
-    "totalCount": 35080,
+    "totalRecords": 33,
+    "totalCount": 36721,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:26:05.611637"
   },
@@ -232,11 +232,20 @@
       13,
       "Russian River",
       "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      1641,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
     ]
   ],
-  "last_updated": "2025-08-01T15:49:29.309400",
+  "last_updated": "2025-08-01T16:18:38.384311",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 1,
     "existing_records_updated": 0
   }
 }

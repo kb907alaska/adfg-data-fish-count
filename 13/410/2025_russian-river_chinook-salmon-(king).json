@@ -3,8 +3,8 @@
     "location_id": "13",
     "species_id": "410",
     "year": "2025",
-    "totalRecords": 20,
-    "totalCount": 108,
+    "totalRecords": 21,
+    "totalCount": 114,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:26:00.606263"
   },
@@ -148,11 +148,20 @@
       13,
       "Russian River",
       "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      6,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
     ]
   ],
-  "last_updated": "2025-08-01T15:49:25.126438",
+  "last_updated": "2025-08-01T16:18:34.193235",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 1,
     "existing_records_updated": 0
   }
 }
