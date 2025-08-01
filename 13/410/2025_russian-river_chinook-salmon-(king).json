@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      2,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      2,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      2,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      5,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      2,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      9,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      7,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      6,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      7,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      12,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      6,
+      410,
+      13,
+      "Russian River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": "13",
+    "species_id": "410",
+    "year": "2025",
+    "totalRecords": 11,
+    "totalCount": 60,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-01T20:39:48.890739"
+  }
+}

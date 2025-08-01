@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      2,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      1,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      1,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      0,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ]
+  ],
+  "metadata": {
+    "location_id": "29",
+    "species_id": "540",
+    "year": "2025",
+    "totalRecords": 10,
+    "totalCount": 4,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-01T20:43:03.504005"
+  }
+}

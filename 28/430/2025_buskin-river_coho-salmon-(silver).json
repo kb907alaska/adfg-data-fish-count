@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      1,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      0,
+      430,
+      28,
+      "Buskin River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "28",
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-01T20:42:46.504761"
+  }
+}
