@@ -3225,6 +3225,221 @@
           "notes": 0
         }
       }
+    },
+    {
+      "timestamp": "2025-08-01T09:42:38.071836",
+      "target_year": "2025",
+      "downloaded_files": 0,
+      "merged_files": 96,
+      "notes_found": 0,
+      "skipped_files": 585,
+      "error_files": 8,
+      "location_changes": {
+        "6": {
+          "location_name": "Gulkana River",
+          "new_records": 118,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "7": {
+          "location_name": "Coghill River",
+          "new_records": 66,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "8": {
+          "location_name": "Eshamy Creek",
+          "new_records": 49,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "9": {
+          "location_name": "Anchor River",
+          "new_records": 82,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "13": {
+          "location_name": "Russian River",
+          "new_records": 65,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "15": {
+          "location_name": "Crooked Creek",
+          "new_records": 64,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "16": {
+          "location_name": "Little Susitna River",
+          "new_records": 36,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "17": {
+          "location_name": "Deshka River",
+          "new_records": 84,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "21": {
+          "location_name": "Fish Creek",
+          "new_records": 55,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "23": {
+          "location_name": "Afognak River (Litnik)",
+          "new_records": 210,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "24": {
+          "location_name": "Karluk River",
+          "new_records": 227,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "25": {
+          "location_name": "Ayakulik River",
+          "new_records": 129,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "26": {
+          "location_name": "Olga Creek (Upper Station)",
+          "new_records": 152,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "27": {
+          "location_name": "Dog Salmon River",
+          "new_records": 218,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "28": {
+          "location_name": "Buskin River",
+          "new_records": 172,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "29": {
+          "location_name": "Saltery Creek",
+          "new_records": 56,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "30": {
+          "location_name": "Chignik River",
+          "new_records": 75,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "31": {
+          "location_name": "Orzinski Lake",
+          "new_records": 51,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "32": {
+          "location_name": "Nelson River (Sapsuk)",
+          "new_records": 105,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "33": {
+          "location_name": "Bear River",
+          "new_records": 62,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "35": {
+          "location_name": "Ilnik River",
+          "new_records": 90,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "37": {
+          "location_name": "Chena River",
+          "new_records": 62,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "38": {
+          "location_name": "Salcha River",
+          "new_records": 56,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "39": {
+          "location_name": "Copper River (Miles Lake)",
+          "new_records": 77,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "40": {
+          "location_name": "Kenai River (Late-Run Sockeye)",
+          "new_records": 30,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "41": {
+          "location_name": "Kasilof River (Sockeye)",
+          "new_records": 46,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "51": {
+          "location_name": "Nushagak River",
+          "new_records": 147,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "60": {
+          "location_name": "Pasagshak River",
+          "new_records": 16,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "72": {
+          "location_name": "Kenai River (Chinook)",
+          "new_records": 76,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "73": {
+          "location_name": "Jim Creek",
+          "new_records": 28,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "75": {
+          "location_name": "Ninilchik River",
+          "new_records": 85,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "76": {
+          "location_name": "Redoubt Lake",
+          "new_records": 44,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "77": {
+          "location_name": "Klag Lake",
+          "new_records": 12,
+          "new_fish_count": 0,
+          "notes": 0
+        },
+        "78": {
+          "location_name": "Lake Creek",
+          "new_records": 45,
+          "new_fish_count": 0,
+          "notes": 0
+        }
+      }
     }
   ],
   "total_new_records": 0,
@@ -3443,8 +3658,8 @@
   },
   "summary": {
     "files_downloaded": 1,
-    "files_merged": 1443,
+    "files_merged": 1539,
     "notes_found": 0,
-    "errors": 112
+    "errors": 120
   }
 }
