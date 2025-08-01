@@ -2927,6 +2927,7 @@
     "75/410/2025_ninilchik-river_chinook-salmon-(king).json",
     "75/410/2025_ninilchik-river_chinook.json",
     "75/430/2022_ninilchik-river_coho.json",
+    "75/430/2025_ninilchik-river_coho-salmon-(silver).json",
     "76/420/1953_redoubt-lake_sockeye.json",
     "76/420/1954_redoubt-lake_sockeye.json",
     "76/420/1955_redoubt-lake_sockeye.json",
@@ -3096,8 +3097,8 @@
     "logs/daily_changes_2025-08-01.json"
   ],
   "metadata": {
-    "generated": "2025-08-01T00:39:36.432093",
-    "total_files": 3094,
+    "generated": "2025-08-01T01:04:16.698079",
+    "total_files": 3095,
     "naming_standards_enforced": true,
     "repository": "adfg-data-fish-count",
     "description": "Clean ADFG Fish Count Data - No Workflow History",

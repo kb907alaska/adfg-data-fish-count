@@ -3,8 +3,8 @@
     "location_id": "7",
     "species_id": "450",
     "year": "2025",
-    "totalRecords": 4,
-    "totalCount": 16,
+    "totalRecords": 8,
+    "totalCount": 32,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:25:16.537712"
   },
@@ -28,11 +28,47 @@
       2025,
       "07/08/2025",
       4
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      3,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      2,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      4,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      7,
+      450,
+      7,
+      "Coghill River",
+      "Chum"
     ]
   ],
-  "last_updated": "2025-07-31T23:56:33.616267",
+  "last_updated": "2025-08-01T00:54:11.987149",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 4,
     "existing_records_updated": 0
   }
 }

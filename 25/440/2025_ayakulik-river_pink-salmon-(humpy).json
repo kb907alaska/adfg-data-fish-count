@@ -3,8 +3,8 @@
     "location_id": "25",
     "species_id": "440",
     "year": "2025",
-    "totalRecords": 20,
-    "totalCount": 1142,
+    "totalRecords": 40,
+    "totalCount": 2284,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:28:19.562986"
   },
@@ -108,11 +108,191 @@
       2025,
       "07/30/2025",
       563
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      71,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      10,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      13,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      17,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      13,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      4,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      10,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      3,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      2,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      5,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      8,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      16,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      5,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      24,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      51,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      14,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      30,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      117,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      166,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      563,
+      440,
+      25,
+      "Ayakulik River",
+      "Pink"
     ]
   ],
-  "last_updated": "2025-08-01T00:32:51.856363",
+  "last_updated": "2025-08-01T00:57:05.167128",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 20,
     "existing_records_updated": 0
   }
 }

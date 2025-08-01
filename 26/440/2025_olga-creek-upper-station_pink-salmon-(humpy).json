@@ -3,8 +3,8 @@
     "location_id": "26",
     "species_id": "440",
     "year": "2025",
-    "totalRecords": 34,
-    "totalCount": 43,
+    "totalRecords": 68,
+    "totalCount": 86,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:28:32.859272"
   },
@@ -178,11 +178,317 @@
       2025,
       "07/30/2025",
       3
+    ],
+    [
+      2025,
+      "July, 01 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 02 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 03 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 04 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 06 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      6,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      5,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      18,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      6,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      1,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      3,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      3,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      1,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
     ]
   ],
-  "last_updated": "2025-08-01T00:33:03.050123",
+  "last_updated": "2025-08-01T00:57:17.354485",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 34,
     "existing_records_updated": 0
   }
 }

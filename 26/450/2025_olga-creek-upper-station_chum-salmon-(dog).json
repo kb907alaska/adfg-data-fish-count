@@ -3,8 +3,8 @@
     "location_id": "26",
     "species_id": "450",
     "year": "2025",
-    "totalRecords": 11,
-    "totalCount": 1,
+    "totalRecords": 22,
+    "totalCount": 2,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:28:33.857405"
   },
@@ -63,11 +63,110 @@
       2025,
       "07/30/2025",
       0
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      1,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      0,
+      450,
+      26,
+      "Olga Creek (Upper Station)",
+      "Chum"
     ]
   ],
-  "last_updated": "2025-08-01T00:33:03.914701",
+  "last_updated": "2025-08-01T00:57:18.305424",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 11,
     "existing_records_updated": 0
   }
 }

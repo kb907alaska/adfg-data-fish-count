@@ -3,8 +3,8 @@
     "location_id": "73",
     "species_id": "420",
     "year": "2025",
-    "totalRecords": 14,
-    "totalCount": 770,
+    "totalRecords": 28,
+    "totalCount": 1540,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:34:57.163129"
   },
@@ -78,11 +78,137 @@
       2025,
       "07/30/2025",
       272
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      72,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      40,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      22,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      1,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      208,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      61,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      69,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      25,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      0,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      272,
+      420,
+      73,
+      "Jim Creek",
+      "Sockeye"
     ]
   ],
-  "last_updated": "2025-08-01T00:38:32.930876",
+  "last_updated": "2025-08-01T01:03:07.446319",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 14,
     "existing_records_updated": 0
   }
 }

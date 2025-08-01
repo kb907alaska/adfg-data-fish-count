@@ -3,8 +3,8 @@
     "location_id": "35",
     "species_id": "410",
     "year": "2025",
-    "totalRecords": 21,
-    "totalCount": 3,
+    "totalRecords": 42,
+    "totalCount": 6,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:30:29.205888"
   },
@@ -113,11 +113,200 @@
       2025,
       "07/21/2025",
       0
+    ],
+    [
+      2025,
+      "July, 01 2025 00:00:00",
+      1,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 02 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 03 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 04 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 06 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      1,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      1,
+      410,
+      35,
+      "Ilnik River",
+      "Chinook"
     ]
   ],
-  "last_updated": "2025-08-01T00:34:37.652005",
+  "last_updated": "2025-08-01T00:59:01.789244",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 21,
     "existing_records_updated": 0
   }
 }

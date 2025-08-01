@@ -3,8 +3,8 @@
     "location_id": "29",
     "species_id": "440",
     "year": "2025",
-    "totalRecords": 24,
-    "totalCount": 4512,
+    "totalRecords": 48,
+    "totalCount": 9024,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:29:12.004230"
   },
@@ -128,11 +128,227 @@
       2025,
       "07/30/2025",
       479
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      18,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      3,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      16,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      30,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      57,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      21,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      52,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      183,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      99,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      116,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      78,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      44,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      189,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      322,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      293,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      592,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      399,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      208,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      30,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      170,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      115,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      611,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      387,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      479,
+      440,
+      29,
+      "Saltery Creek",
+      "Pink"
     ]
   ],
-  "last_updated": "2025-08-01T00:33:36.583891",
+  "last_updated": "2025-08-01T00:57:54.083717",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 24,
     "existing_records_updated": 0
   }
 }

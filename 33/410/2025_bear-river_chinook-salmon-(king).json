@@ -3,8 +3,8 @@
     "location_id": "33",
     "species_id": "410",
     "year": "2025",
-    "totalRecords": 15,
-    "totalCount": 1,
+    "totalRecords": 30,
+    "totalCount": 2,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:29:57.314242"
   },
@@ -83,11 +83,146 @@
       2025,
       "07/30/2025",
       0
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      1,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      0,
+      410,
+      33,
+      "Bear River",
+      "Chinook"
     ]
   ],
-  "last_updated": "2025-08-01T00:34:15.222857",
+  "last_updated": "2025-08-01T00:58:37.388597",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 15,
     "existing_records_updated": 0
   }
 }

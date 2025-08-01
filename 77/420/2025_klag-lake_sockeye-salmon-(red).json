@@ -3,8 +3,8 @@
     "location_id": "77",
     "species_id": "420",
     "year": "2025",
-    "totalRecords": 12,
-    "totalCount": 256,
+    "totalRecords": 24,
+    "totalCount": 512,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:35:49.885985"
   },
@@ -68,11 +68,119 @@
       2025,
       "07/25/2025",
       1
+    ],
+    [
+      2025,
+      "July, 04 2025 00:00:00",
+      2,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      2,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 06 2025 00:00:00",
+      1,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      2,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      77,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      90,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      21,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      23,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      2,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      33,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      2,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      1,
+      420,
+      77,
+      "Klag",
+      "Sockeye"
     ]
   ],
-  "last_updated": "2025-08-01T00:39:17.662179",
+  "last_updated": "2025-08-01T01:03:56.217711",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 12,
     "existing_records_updated": 0
   }
 }

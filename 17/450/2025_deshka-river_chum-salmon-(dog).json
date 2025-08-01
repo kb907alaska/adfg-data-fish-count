@@ -3,8 +3,8 @@
     "location_id": "17",
     "species_id": "450",
     "year": "2025",
-    "totalRecords": 6,
-    "totalCount": 95,
+    "totalRecords": 12,
+    "totalCount": 190,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:26:48.289449"
   },
@@ -38,11 +38,65 @@
       2025,
       "07/30/2025",
       0
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      58,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      37,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      0,
+      450,
+      17,
+      "Deshka",
+      "Chum"
     ]
   ],
-  "last_updated": "2025-08-01T00:31:34.399454",
+  "last_updated": "2025-08-01T00:55:40.192094",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 6,
     "existing_records_updated": 0
   }
 }

@@ -3,8 +3,8 @@
     "location_id": "17",
     "species_id": "420",
     "year": "2025",
-    "totalRecords": 4,
-    "totalCount": 56,
+    "totalRecords": 8,
+    "totalCount": 112,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:26:43.325063"
   },
@@ -28,11 +28,47 @@
       2025,
       "07/30/2025",
       30
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      1,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      14,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      11,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      30,
+      420,
+      17,
+      "Deshka",
+      "Sockeye"
     ]
   ],
-  "last_updated": "2025-08-01T00:31:30.178100",
+  "last_updated": "2025-08-01T00:55:35.606591",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 4,
     "existing_records_updated": 0
   }
 }

@@ -3,8 +3,8 @@
     "location_id": "23",
     "species_id": "430",
     "year": "2025",
-    "totalRecords": 8,
-    "totalCount": 45,
+    "totalRecords": 16,
+    "totalCount": 90,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:27:52.535169"
   },
@@ -48,11 +48,83 @@
       2025,
       "07/30/2025",
       6
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      0,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      2,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      1,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      18,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      16,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      6,
+      430,
+      23,
+      "Afognak River (Litnik)",
+      "Coho"
     ]
   ],
-  "last_updated": "2025-08-01T00:32:28.582786",
+  "last_updated": "2025-08-01T00:56:39.354237",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 8,
     "existing_records_updated": 0
   }
 }
