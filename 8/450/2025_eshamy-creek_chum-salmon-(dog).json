@@ -3,8 +3,8 @@
     "location_id": "8",
     "species_id": "450",
     "year": "2025",
-    "totalRecords": 46,
-    "totalCount": 1920,
+    "totalRecords": 47,
+    "totalCount": 1959,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:25:29.545593"
   },
@@ -330,11 +330,20 @@
       8,
       "Eshamy Creek",
       "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      39,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
     ]
   ],
-  "last_updated": "2025-08-01T16:18:09.148483",
+  "last_updated": "2025-08-01T16:33:05.031633",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 1,
     "existing_records_updated": 0
   }
 }

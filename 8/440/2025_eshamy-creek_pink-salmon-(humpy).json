@@ -3,8 +3,8 @@
     "location_id": "8",
     "species_id": "440",
     "year": "2025",
-    "totalRecords": 4,
-    "totalCount": 8,
+    "totalRecords": 5,
+    "totalCount": 10,
     "source": "ADFG JSON API",
     "last_updated": "2025-07-31T20:25:28.552663"
   },
@@ -36,11 +36,20 @@
       8,
       "Eshamy Creek",
       "Pink"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      2,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
     ]
   ],
-  "last_updated": "2025-08-01T16:18:08.341226",
+  "last_updated": "2025-08-01T16:33:04.241235",
   "merge_info": {
-    "new_records_added": 0,
+    "new_records_added": 1,
     "existing_records_updated": 0
   }
 }
