@@ -1,4 +1,7 @@
 {
+  "repository": "adfg-data-fish-count",
+  "last_updated": "2025-08-01T10:20:20.000Z",
+  "total_files": 2891,
   "files": [
     "1/410/2002_auke-creek_chinook.json",
     "1/420/2002_auke-creek_sockeye.json",
@@ -597,7 +600,6 @@
     "23/450/2023_afognak-river-litnik_chum.json",
     "23/450/2024_afognak-river-litnik_chum.json",
     "23/450/2025_afognak-river-litnik_chum.json",
-    "23/540/2025_afognak-river-litnik_steelhead-.json",
     "24/410/1993_karluk-river_chinook.json",
     "24/410/1994_karluk-river_chinook.json",
     "24/410/1995_karluk-river_chinook.json",
@@ -725,7 +727,6 @@
     "24/450/2023_karluk-river_chum.json",
     "24/450/2024_karluk-river_chum.json",
     "24/450/2025_karluk-river_chum.json",
-    "24/540/2025_karluk-river_steelhead-.json",
     "25/410/1993_ayakulik-river_chinook.json",
     "25/410/1994_ayakulik-river_chinook.json",
     "25/410/1995_ayakulik-river_chinook.json",
@@ -851,7 +852,6 @@
     "25/450/2023_ayakulik-river_chum.json",
     "25/450/2024_ayakulik-river_chum.json",
     "25/450/2025_ayakulik-river_chum.json",
-    "25/540/2025_ayakulik-river_steelhead-.json",
     "26/410/2006_olga-creek-upper-station_chinook.json",
     "26/410/2008_olga-creek-upper-station_chinook.json",
     "26/410/2012_olga-creek-upper-station_chinook.json",
@@ -929,7 +929,6 @@
     "26/450/2022_olga-creek-upper-station_chum.json",
     "26/450/2024_olga-creek-upper-station_chum.json",
     "26/450/2025_olga-creek-upper-station_chum.json",
-    "26/540/2025_olga-creek-upper-station_steelhead-.json",
     "27/410/2006_dog-salmon-river_chinook.json",
     "27/410/2007_dog-salmon-river_chinook.json",
     "27/410/2008_dog-salmon-river_chinook.json",
@@ -1033,7 +1032,6 @@
     "27/450/2024_dog-salmon-river_chum.json",
     "27/450/2025_dog-river_chum.json",
     "27/450/2025_dog-salmon-river_chum.json",
-    "27/540/2025_dog-salmon-river_steelhead-.json",
     "28/410/2008_buskin-river_chinook.json",
     "28/410/2009_buskin-river_chinook.json",
     "28/410/2010_buskin-river_chinook.json",
@@ -1143,7 +1141,6 @@
     "28/450/2023_buskin-river_chum.json",
     "28/450/2024_buskin-river_chum.json",
     "28/450/2025_buskin-river_chum.json",
-    "28/540/2025_buskin-river_steelhead-.json",
     "29/410/2009_saltery-creek_chinook.json",
     "29/410/2011_saltery-creek_chinook.json",
     "29/410/2018_saltery-creek_chinook.json",
@@ -1222,7 +1219,6 @@
     "29/450/2023_saltery-creek_chum.json",
     "29/450/2024_saltery-creek_chum.json",
     "29/450/2025_saltery-creek_chum.json",
-    "29/540/2025_saltery-creek_steelhead-.json",
     "30/410/2006_chignik-river_chinook.json",
     "30/410/2007_chignik-river_chinook.json",
     "30/410/2008_chignik-river_chinook.json",
@@ -2309,7 +2305,6 @@
     "5/440/2019_situk-river_pink.json",
     "5/450/2017_situk-river_chum.json",
     "5/450/2018_situk-river_chum.json",
-    "5/540/2025_situk-river_steelhead-.json",
     "50/420/1956_wood-river_sockeye.json",
     "50/420/1957_wood-river_sockeye.json",
     "50/420/1958_wood-river_sockeye.json",
@@ -2899,16 +2894,5 @@
     "9/430/2024_anchor-river_coho.json",
     "logs/daily_changes_2025-07-31.json",
     "logs/daily_changes_2025-08-01.json"
-  ],
-  "metadata": {
-    "generated": "2025-08-01T16:41:39.259233",
-    "total_files": 3095,
-    "naming_standards_enforced": true,
-    "repository": "adfg-data-fish-count",
-    "description": "Clean ADFG Fish Count Data - No Workflow History",
-    "source": "Alaska Department of Fish and Game"
-  },
-  "last_updated": "2025-08-01T17:56:51.000Z",
-  "total_files": 2899,
-  "files_removed": 196
+  ]
 }
