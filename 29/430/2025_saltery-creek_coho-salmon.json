@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      4,
+      430,
+      29,
+      "Saltery Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "29",
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 1,
+    "totalCount": 4,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-02T00:53:31.054977"
+  }
+}

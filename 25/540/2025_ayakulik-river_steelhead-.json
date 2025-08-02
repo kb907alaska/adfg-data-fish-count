@@ -11,177 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 12 2025 00:00:00",
-      17,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 13 2025 00:00:00",
-      2,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 14 2025 00:00:00",
-      2,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 15 2025 00:00:00",
-      2,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 16 2025 00:00:00",
-      3,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 17 2025 00:00:00",
-      4,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 18 2025 00:00:00",
-      13,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 19 2025 00:00:00",
-      1,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 20 2025 00:00:00",
-      1,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 21 2025 00:00:00",
-      5,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 22 2025 00:00:00",
-      2,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      0,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      0,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      3,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      3,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 27 2025 00:00:00",
-      1,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 28 2025 00:00:00",
-      4,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      13,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      0,
-      540,
-      25,
-      "Ayakulik River",
-      "Steelhead"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       5,
       540,
@@ -440,6 +269,177 @@
       25,
       "Ayakulik River",
       "Steelhead"
+    ],
+    [
+      2025,
+      "June, 12 2025 00:00:00",
+      17,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 13 2025 00:00:00",
+      2,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 14 2025 00:00:00",
+      2,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 15 2025 00:00:00",
+      2,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 16 2025 00:00:00",
+      3,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      4,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      13,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      1,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      1,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      5,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      2,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      0,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      0,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      3,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      3,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      1,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      4,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      13,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      0,
+      540,
+      25,
+      "Ayakulik River",
+      "Steelhead"
     ]
   ],
   "metadata": {
@@ -450,5 +450,10 @@
     "totalCount": 287,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-01T20:42:11.272703"
+  },
+  "last_updated": "2025-08-02T00:52:46.870051",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

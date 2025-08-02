@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      2,
+      450,
+      31,
+      "Orzinski Lake",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "31",
+    "species_id": "450",
+    "year": "2025",
+    "totalRecords": 1,
+    "totalCount": 2,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-02T00:53:56.548889"
+  }
+}
