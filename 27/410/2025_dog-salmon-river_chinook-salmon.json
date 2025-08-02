@@ -11,123 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 18 2025 00:00:00",
-      2,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 19 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 20 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 21 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 22 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      2,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 27 2025 00:00:00",
-      0,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 28 2025 00:00:00",
-      1,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      1,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      3,
-      410,
-      27,
-      "Dog Salmon River",
-      "Chinook"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       1,
       410,
@@ -395,6 +278,123 @@
       27,
       "Dog Salmon River",
       "Chinook"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      2,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      2,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      0,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      1,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      1,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      3,
+      410,
+      27,
+      "Dog Salmon River",
+      "Chinook"
     ]
   ],
   "metadata": {
@@ -405,5 +405,10 @@
     "totalCount": 12,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:53:01.491661"
+  },
+  "last_updated": "2025-08-02T02:05:38.076123",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

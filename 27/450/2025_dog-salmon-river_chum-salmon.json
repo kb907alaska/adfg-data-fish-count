@@ -11,60 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 22 2025 00:00:00",
-      1,
-      450,
-      27,
-      "Dog Salmon River",
-      "Chum"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      0,
-      450,
-      27,
-      "Dog Salmon River",
-      "Chum"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      1,
-      450,
-      27,
-      "Dog Salmon River",
-      "Chum"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      1,
-      450,
-      27,
-      "Dog Salmon River",
-      "Chum"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      4,
-      450,
-      27,
-      "Dog Salmon River",
-      "Chum"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      4,
-      450,
-      27,
-      "Dog Salmon River",
-      "Chum"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       3,
       450,
@@ -341,6 +287,60 @@
       27,
       "Dog Salmon River",
       "Chum"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      1,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      0,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      1,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      1,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      4,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      4,
+      450,
+      27,
+      "Dog Salmon River",
+      "Chum"
     ]
   ],
   "metadata": {
@@ -351,5 +351,10 @@
     "totalCount": 566,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:53:08.805389"
+  },
+  "last_updated": "2025-08-02T02:05:46.069946",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

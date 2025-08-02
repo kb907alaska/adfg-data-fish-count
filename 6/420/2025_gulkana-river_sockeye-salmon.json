@@ -11,267 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 02 2025 00:00:00",
-      6,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 03 2025 00:00:00",
-      48,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 04 2025 00:00:00",
-      6,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 05 2025 00:00:00",
-      78,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 06 2025 00:00:00",
-      114,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 07 2025 00:00:00",
-      0,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 08 2025 00:00:00",
-      0,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 09 2025 00:00:00",
-      60,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 10 2025 00:00:00",
-      138,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 11 2025 00:00:00",
-      90,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 12 2025 00:00:00",
-      150,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 13 2025 00:00:00",
-      144,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 14 2025 00:00:00",
-      270,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 15 2025 00:00:00",
-      384,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 16 2025 00:00:00",
-      216,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 17 2025 00:00:00",
-      144,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 18 2025 00:00:00",
-      144,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 19 2025 00:00:00",
-      114,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 20 2025 00:00:00",
-      270,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 21 2025 00:00:00",
-      108,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 22 2025 00:00:00",
-      120,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      60,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      36,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      66,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      18,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 27 2025 00:00:00",
-      24,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 28 2025 00:00:00",
-      78,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      48,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      48,
-      420,
-      6,
-      "Gulkana River",
-      "Sockeye"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       54,
       420,
@@ -548,6 +287,267 @@
       6,
       "Gulkana River",
       "Sockeye"
+    ],
+    [
+      2025,
+      "June, 02 2025 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 03 2025 00:00:00",
+      48,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 04 2025 00:00:00",
+      6,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 05 2025 00:00:00",
+      78,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 06 2025 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 07 2025 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 08 2025 00:00:00",
+      0,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 09 2025 00:00:00",
+      60,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 10 2025 00:00:00",
+      138,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 11 2025 00:00:00",
+      90,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 12 2025 00:00:00",
+      150,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 13 2025 00:00:00",
+      144,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 14 2025 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 15 2025 00:00:00",
+      384,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 16 2025 00:00:00",
+      216,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      144,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      144,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      114,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      270,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      108,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      120,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      60,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      36,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      66,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      18,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      24,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      78,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      48,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      48,
+      420,
+      6,
+      "Gulkana River",
+      "Sockeye"
     ]
   ],
   "metadata": {
@@ -558,5 +558,10 @@
     "totalCount": 9504,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:49:42.443469"
+  },
+  "last_updated": "2025-08-02T02:02:00.900141",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

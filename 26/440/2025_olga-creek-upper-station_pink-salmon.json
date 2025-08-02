@@ -11,42 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 27 2025 00:00:00",
-      1,
-      440,
-      26,
-      "Olga Creek (Upper Station)",
-      "Pink"
-    ],
-    [
-      2025,
-      "June, 28 2025 00:00:00",
-      0,
-      440,
-      26,
-      "Olga Creek (Upper Station)",
-      "Pink"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      0,
-      440,
-      26,
-      "Olga Creek (Upper Station)",
-      "Pink"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      0,
-      440,
-      26,
-      "Olga Creek (Upper Station)",
-      "Pink"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       0,
       440,
@@ -323,6 +287,42 @@
       26,
       "Olga Creek (Upper Station)",
       "Pink"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      1,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      0,
+      440,
+      26,
+      "Olga Creek (Upper Station)",
+      "Pink"
     ]
   ],
   "metadata": {
@@ -333,5 +333,10 @@
     "totalCount": 45,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:52:56.020010"
+  },
+  "last_updated": "2025-08-02T02:05:32.081837",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

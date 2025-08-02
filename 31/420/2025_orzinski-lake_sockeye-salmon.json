@@ -11,141 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 16 2025 00:00:00",
-      84,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 17 2025 00:00:00",
-      104,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 18 2025 00:00:00",
-      0,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 19 2025 00:00:00",
-      177,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 20 2025 00:00:00",
-      60,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 21 2025 00:00:00",
-      30,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 22 2025 00:00:00",
-      172,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      8,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      108,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      15,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      27,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 27 2025 00:00:00",
-      799,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 28 2025 00:00:00",
-      296,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      448,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      195,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       746,
       420,
@@ -422,6 +287,141 @@
       31,
       "Orzinski Lake",
       "Sockeye"
+    ],
+    [
+      2025,
+      "June, 16 2025 00:00:00",
+      84,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      104,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      0,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      177,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      60,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      30,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      172,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      8,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      108,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      15,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      27,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      799,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      296,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      448,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      195,
+      420,
+      31,
+      "Orzinski Lake",
+      "Sockeye"
     ]
   ],
   "metadata": {
@@ -432,5 +432,10 @@
     "totalCount": 14685,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:53:52.029948"
+  },
+  "last_updated": "2025-08-02T02:06:35.957692",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

@@ -11,33 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 28 2025 00:00:00",
-      1,
-      440,
-      35,
-      "Ilnik River",
-      "Pink"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      0,
-      440,
-      35,
-      "Ilnik River",
-      "Pink"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      0,
-      440,
-      35,
-      "Ilnik River",
-      "Pink"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       0,
       440,
@@ -215,6 +188,33 @@
       35,
       "Ilnik River",
       "Pink"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      1,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      0,
+      440,
+      35,
+      "Ilnik River",
+      "Pink"
     ]
   ],
   "metadata": {
@@ -225,5 +225,10 @@
     "totalCount": 4,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:54:43.638932"
+  },
+  "last_updated": "2025-08-02T02:07:32.246595",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

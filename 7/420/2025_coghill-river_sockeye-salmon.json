@@ -11,96 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 21 2025 00:00:00",
-      13,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 22 2025 00:00:00",
-      76,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      407,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      448,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      628,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      215,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 27 2025 00:00:00",
-      368,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 28 2025 00:00:00",
-      677,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      750,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      1473,
-      420,
-      7,
-      "Coghill River",
-      "Sockeye"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       337,
       420,
@@ -341,6 +251,96 @@
       7,
       "Coghill River",
       "Sockeye"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      13,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      76,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      407,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      448,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      628,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      215,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      368,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      677,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      750,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      1473,
+      420,
+      7,
+      "Coghill River",
+      "Sockeye"
     ]
   ],
   "metadata": {
@@ -351,5 +351,10 @@
     "totalCount": 82019,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:49:54.338017"
+  },
+  "last_updated": "2025-08-02T02:02:13.910698",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

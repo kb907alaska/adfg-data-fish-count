@@ -11,8 +11,8 @@
   "DATA": [
     [
       2025,
-      "May, 09 2025 00:00:00",
-      0,
+      "July, 01 2025 00:00:00",
+      299,
       420,
       23,
       "Afognak River (Litnik)",
@@ -20,8 +20,8 @@
     ],
     [
       2025,
-      "May, 10 2025 00:00:00",
-      0,
+      "July, 02 2025 00:00:00",
+      463,
       420,
       23,
       "Afognak River (Litnik)",
@@ -29,8 +29,8 @@
     ],
     [
       2025,
-      "May, 11 2025 00:00:00",
-      0,
+      "July, 03 2025 00:00:00",
+      261,
       420,
       23,
       "Afognak River (Litnik)",
@@ -38,151 +38,7 @@
     ],
     [
       2025,
-      "May, 12 2025 00:00:00",
-      0,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 13 2025 00:00:00",
-      1,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 14 2025 00:00:00",
-      0,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 15 2025 00:00:00",
-      1,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 16 2025 00:00:00",
-      0,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 17 2025 00:00:00",
-      5,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 18 2025 00:00:00",
-      1,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 19 2025 00:00:00",
-      4,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 20 2025 00:00:00",
-      16,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 21 2025 00:00:00",
-      18,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 22 2025 00:00:00",
-      82,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 23 2025 00:00:00",
-      0,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 24 2025 00:00:00",
-      5,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 25 2025 00:00:00",
-      1,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 26 2025 00:00:00",
-      125,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 27 2025 00:00:00",
-      4,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "May, 28 2025 00:00:00",
+      "July, 04 2025 00:00:00",
       69,
       420,
       23,
@@ -191,8 +47,8 @@
     ],
     [
       2025,
-      "May, 29 2025 00:00:00",
-      3,
+      "July, 05 2025 00:00:00",
+      215,
       420,
       23,
       "Afognak River (Litnik)",
@@ -200,8 +56,8 @@
     ],
     [
       2025,
-      "May, 30 2025 00:00:00",
-      457,
+      "July, 06 2025 00:00:00",
+      0,
       420,
       23,
       "Afognak River (Litnik)",
@@ -209,8 +65,224 @@
     ],
     [
       2025,
-      "May, 31 2025 00:00:00",
-      47,
+      "July, 07 2025 00:00:00",
+      151,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      5,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      213,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      362,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      405,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      290,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      166,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      133,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      81,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      248,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      157,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      598,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      313,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      276,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      37,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      183,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      280,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      153,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      180,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      152,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      79,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      106,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      207,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      137,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      78,
       420,
       23,
       "Afognak River (Litnik)",
@@ -488,52 +560,7 @@
     ],
     [
       2025,
-      "July, 01 2025 00:00:00",
-      299,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 02 2025 00:00:00",
-      463,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 03 2025 00:00:00",
-      261,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 04 2025 00:00:00",
-      69,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 05 2025 00:00:00",
-      215,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 06 2025 00:00:00",
+      "May, 09 2025 00:00:00",
       0,
       420,
       23,
@@ -542,8 +569,8 @@
     ],
     [
       2025,
-      "July, 07 2025 00:00:00",
-      151,
+      "May, 10 2025 00:00:00",
+      0,
       420,
       23,
       "Afognak River (Litnik)",
@@ -551,7 +578,61 @@
     ],
     [
       2025,
-      "July, 08 2025 00:00:00",
+      "May, 11 2025 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "May, 12 2025 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "May, 13 2025 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "May, 14 2025 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "May, 15 2025 00:00:00",
+      1,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "May, 16 2025 00:00:00",
+      0,
+      420,
+      23,
+      "Afognak River (Litnik)",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "May, 17 2025 00:00:00",
       5,
       420,
       23,
@@ -560,8 +641,8 @@
     ],
     [
       2025,
-      "July, 09 2025 00:00:00",
-      213,
+      "May, 18 2025 00:00:00",
+      1,
       420,
       23,
       "Afognak River (Litnik)",
@@ -569,8 +650,8 @@
     ],
     [
       2025,
-      "July, 10 2025 00:00:00",
-      362,
+      "May, 19 2025 00:00:00",
+      4,
       420,
       23,
       "Afognak River (Litnik)",
@@ -578,8 +659,8 @@
     ],
     [
       2025,
-      "July, 11 2025 00:00:00",
-      405,
+      "May, 20 2025 00:00:00",
+      16,
       420,
       23,
       "Afognak River (Litnik)",
@@ -587,8 +668,8 @@
     ],
     [
       2025,
-      "July, 12 2025 00:00:00",
-      290,
+      "May, 21 2025 00:00:00",
+      18,
       420,
       23,
       "Afognak River (Litnik)",
@@ -596,8 +677,8 @@
     ],
     [
       2025,
-      "July, 13 2025 00:00:00",
-      166,
+      "May, 22 2025 00:00:00",
+      82,
       420,
       23,
       "Afognak River (Litnik)",
@@ -605,8 +686,8 @@
     ],
     [
       2025,
-      "July, 14 2025 00:00:00",
-      133,
+      "May, 23 2025 00:00:00",
+      0,
       420,
       23,
       "Afognak River (Litnik)",
@@ -614,8 +695,8 @@
     ],
     [
       2025,
-      "July, 15 2025 00:00:00",
-      81,
+      "May, 24 2025 00:00:00",
+      5,
       420,
       23,
       "Afognak River (Litnik)",
@@ -623,8 +704,8 @@
     ],
     [
       2025,
-      "July, 16 2025 00:00:00",
-      248,
+      "May, 25 2025 00:00:00",
+      1,
       420,
       23,
       "Afognak River (Litnik)",
@@ -632,8 +713,8 @@
     ],
     [
       2025,
-      "July, 17 2025 00:00:00",
-      157,
+      "May, 26 2025 00:00:00",
+      125,
       420,
       23,
       "Afognak River (Litnik)",
@@ -641,8 +722,8 @@
     ],
     [
       2025,
-      "July, 18 2025 00:00:00",
-      598,
+      "May, 27 2025 00:00:00",
+      4,
       420,
       23,
       "Afognak River (Litnik)",
@@ -650,8 +731,8 @@
     ],
     [
       2025,
-      "July, 19 2025 00:00:00",
-      313,
+      "May, 28 2025 00:00:00",
+      69,
       420,
       23,
       "Afognak River (Litnik)",
@@ -659,8 +740,8 @@
     ],
     [
       2025,
-      "July, 20 2025 00:00:00",
-      276,
+      "May, 29 2025 00:00:00",
+      3,
       420,
       23,
       "Afognak River (Litnik)",
@@ -668,8 +749,8 @@
     ],
     [
       2025,
-      "July, 21 2025 00:00:00",
-      37,
+      "May, 30 2025 00:00:00",
+      457,
       420,
       23,
       "Afognak River (Litnik)",
@@ -677,89 +758,8 @@
     ],
     [
       2025,
-      "July, 22 2025 00:00:00",
-      183,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 23 2025 00:00:00",
-      280,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 24 2025 00:00:00",
-      153,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      180,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      152,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      79,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      106,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      207,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      137,
-      420,
-      23,
-      "Afognak River (Litnik)",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      78,
+      "May, 31 2025 00:00:00",
+      47,
       420,
       23,
       "Afognak River (Litnik)",
@@ -774,5 +774,10 @@
     "totalCount": 20872,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:52:16.682457"
+  },
+  "last_updated": "2025-08-02T02:04:49.312895",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

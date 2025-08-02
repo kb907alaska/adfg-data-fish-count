@@ -11,186 +11,6 @@
   "DATA": [
     [
       2025,
-      "June, 11 2025 00:00:00",
-      3,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 12 2025 00:00:00",
-      0,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 13 2025 00:00:00",
-      26,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 14 2025 00:00:00",
-      0,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 15 2025 00:00:00",
-      0,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 16 2025 00:00:00",
-      0,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 17 2025 00:00:00",
-      0,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 18 2025 00:00:00",
-      11514,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 19 2025 00:00:00",
-      2548,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 20 2025 00:00:00",
-      500,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 21 2025 00:00:00",
-      1702,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 22 2025 00:00:00",
-      1428,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      22,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      4509,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      326,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      4254,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 27 2025 00:00:00",
-      210,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 28 2025 00:00:00",
-      6972,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 29 2025 00:00:00",
-      2674,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      4001,
-      420,
-      27,
-      "Dog Salmon River",
-      "Sockeye"
-    ],
-    [
-      2025,
       "July, 01 2025 00:00:00",
       1325,
       420,
@@ -467,6 +287,186 @@
       27,
       "Dog Salmon River",
       "Sockeye"
+    ],
+    [
+      2025,
+      "June, 11 2025 00:00:00",
+      3,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 12 2025 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 13 2025 00:00:00",
+      26,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 14 2025 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 15 2025 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 16 2025 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      0,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      11514,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      2548,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      500,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      1702,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      1428,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      22,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      4509,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      326,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      4254,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      210,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      6972,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      2674,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      4001,
+      420,
+      27,
+      "Dog Salmon River",
+      "Sockeye"
     ]
   ],
   "metadata": {
@@ -477,5 +477,10 @@
     "totalCount": 90528,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:53:04.291601"
+  },
+  "last_updated": "2025-08-02T02:05:41.117175",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }

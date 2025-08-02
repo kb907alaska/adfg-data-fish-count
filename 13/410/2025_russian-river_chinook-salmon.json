@@ -117,5 +117,10 @@
     "totalCount": 60,
     "source": "ADFG JSON API",
     "last_updated": "2025-08-02T00:50:39.302684"
+  },
+  "last_updated": "2025-08-02T02:03:02.824884",
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0
   }
 }
