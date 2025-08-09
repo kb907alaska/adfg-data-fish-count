@@ -1,0 +1,77 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      2,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      0,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      0,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      3,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      0,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      2,
+      450,
+      25,
+      "Ayakulik River",
+      "Chum"
+    ]
+  ],
+  "last_updated": "2025-07-25T19:00:13.073131+00:00"
+}

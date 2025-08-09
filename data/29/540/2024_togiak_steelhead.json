@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "August, 03 2024 00:00:00",
+      3959,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ],
+    [
+      2024,
+      "August, 04 2024 00:00:00",
+      5713,
+      540,
+      29,
+      "Saltery Creek",
+      "Steelhead"
+    ]
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "September, 01 2022 00:00:00",
+      1,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 02 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 03 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 04 2022 00:00:00",
+      2,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 05 2022 00:00:00",
+      1,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 06 2022 00:00:00",
+      1,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 07 2022 00:00:00",
+      1,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 08 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 09 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 10 2022 00:00:00",
+      3,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 11 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 12 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 13 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 14 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 15 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ],
+    [
+      2022,
+      "September, 16 2022 00:00:00",
+      0,
+      540,
+      26,
+      "Olga Creek (Upper Station)",
+      "Steelhead"
+    ]
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      1,
+      430,
+      8,
+      "Eshamy Creek",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      1,
+      430,
+      8,
+      "Eshamy Creek",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      1,
+      430,
+      8,
+      "Eshamy Creek",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      10,
+      430,
+      8,
+      "Eshamy Creek",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      3,
+      430,
+      8,
+      "Eshamy Creek",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      3,
+      430,
+      8,
+      "Eshamy Creek",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "8",
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 6,
+    "totalCount": 19,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-07T23:37:19.821186"
+  }
+}
