@@ -1,0 +1,3 @@
+Trigger ADFG data update workflow - Fri Aug  8 20:27:51 AKDT 2025
+This file triggers the workflow to fetch more 2025 data
+Target locations: Kenai, Kasilof, and other missing locations
