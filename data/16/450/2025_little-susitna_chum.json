@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      307,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      167,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      712,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      204,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      439,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      646,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      494,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      648,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      717,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      755,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      700,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      938,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      330,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      561,
+      450,
+      16,
+      "Little Susitna",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "16",
+    "species_id": "450",
+    "year": "2025",
+    "totalRecords": 14,
+    "totalCount": 7618,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-07T23:38:30.122997"
+  }
+}

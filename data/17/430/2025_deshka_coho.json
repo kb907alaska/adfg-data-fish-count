@@ -1,0 +1,41 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      0,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      0,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      430,
+      17,
+      "Deshka",
+      "Coho"
+    ]
+  ],
+  "last_updated": "2025-07-26T21:40:10.680434+00:00"
+}

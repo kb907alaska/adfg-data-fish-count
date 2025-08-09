@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      1,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      2,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      2,
+      430,
+      25,
+      "Ayakulik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "25",
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 3,
+    "totalCount": 5,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-07T23:40:18.921622"
+  }
+}

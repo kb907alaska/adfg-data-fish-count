@@ -1,0 +1,50 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      1,
+      410,
+      23,
+      "Afognak River (Litnik)",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      0,
+      410,
+      23,
+      "Afognak River (Litnik)",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      0,
+      410,
+      23,
+      "Afognak River (Litnik)",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      0,
+      410,
+      23,
+      "Afognak River (Litnik)",
+      "Chinook"
+    ]
+  ],
+  "last_updated": "2025-07-25T19:00:14.733422+00:00"
+}

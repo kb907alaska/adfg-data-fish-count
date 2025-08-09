@@ -1,0 +1,22 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "June, 24 2024 00:00:00",
+      86,
+      540,
+      60,
+      "Pasagshak",
+      "Steelhead"
+    ]
+  ]
+}
