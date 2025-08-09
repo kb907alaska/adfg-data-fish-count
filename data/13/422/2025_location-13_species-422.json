@@ -1,0 +1,68 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      697,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      911,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      646,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      1152,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      717,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      778,
+      422,
+      13,
+      "Russian River",
+      "Sockeye - Late Run"
+    ]
+  ],
+  "last_updated": "2025-07-22T00:34:19.005817"
+}

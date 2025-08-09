@@ -422,42 +422,7 @@
       51,
       "Nushagak River",
       "Chinook"
-    ],
-    [
-      2025,
-      "July, 22 2025 00:00:00",
-      104,
-      410,
-      51,
-      "Nushagak River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "July, 23 2025 00:00:00",
-      73,
-      410,
-      51,
-      "Nushagak River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "July, 24 2025 00:00:00",
-      10,
-      410,
-      51,
-      "Nushagak River",
-      "Chinook"
     ]
   ],
-  "metadata": {
-    "location_id": "51",
-    "species_id": "410",
-    "year": "2025",
-    "totalRecords": 49,
-    "totalCount": 34137,
-    "source": "ADFG JSON API",
-    "last_updated": "2025-08-07T23:46:06.240584"
-  }
+  "last_updated": "2025-07-22T23:23:53.348538+00:00"
 }

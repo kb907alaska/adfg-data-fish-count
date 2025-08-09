@@ -215,33 +215,7 @@
       7,
       "Coghill River",
       "Pink"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      1133,
-      440,
-      7,
-      "Coghill River",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      720,
-      440,
-      7,
-      "Coghill River",
-      "Pink"
     ]
   ],
-  "metadata": {
-    "location_id": "7",
-    "species_id": "440",
-    "year": "2025",
-    "totalRecords": 25,
-    "totalCount": 12296,
-    "source": "ADFG JSON API",
-    "last_updated": "2025-08-07T23:37:07.207694"
-  }
+  "last_updated": "2025-07-26T21:33:00.027061+00:00"
 }

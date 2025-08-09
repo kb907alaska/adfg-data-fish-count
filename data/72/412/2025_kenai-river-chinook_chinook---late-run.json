@@ -1,0 +1,239 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 01 2025 00:00:00",
+      120,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 02 2025 00:00:00",
+      126,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 03 2025 00:00:00",
+      175,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 04 2025 00:00:00",
+      264,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      210,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 06 2025 00:00:00",
+      205,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      223,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      572,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      277,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      326,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      340,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      355,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      241,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      199,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      325,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      379,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      373,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      253,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      295,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      102,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      235,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      307,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      259,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      223,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      138,
+      412,
+      72,
+      "Kenai River (Chinook)",
+      "Chinook - Late Run"
+    ]
+  ],
+  "last_updated": "2025-07-26T21:32:59.647980+00:00"
+}

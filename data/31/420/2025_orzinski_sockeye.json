@@ -228,7 +228,7 @@
     [
       2025,
       "July, 10 2025 00:00:00",
-      424,
+      44,
       420,
       31,
       "Orzinski Lake",
@@ -359,114 +359,7 @@
       31,
       "Orzinski Lake",
       "Sockeye"
-    ],
-    [
-      2025,
-      "July, 25 2025 00:00:00",
-      454,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 26 2025 00:00:00",
-      319,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 27 2025 00:00:00",
-      292,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      476,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 29 2025 00:00:00",
-      298,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      210,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      427,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 01 2025 00:00:00",
-      98,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      1037,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 03 2025 00:00:00",
-      411,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      163,
-      420,
-      31,
-      "Orzinski Lake",
-      "Sockeye"
     ]
   ],
-  "metadata": {
-    "location_id": "31",
-    "species_id": "420",
-    "year": "2025",
-    "totalRecords": 50,
-    "totalCount": 16394,
-    "source": "ADFG JSON API",
-    "last_updated": "2025-08-07T23:41:39.459921"
-  }
+  "last_updated": "2025-07-25T19:00:14.940548+00:00"
 }

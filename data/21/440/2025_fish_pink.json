@@ -80,78 +80,7 @@
       21,
       "Fish Creek",
       "Pink"
-    ],
-    [
-      2025,
-      "July, 28 2025 00:00:00",
-      47,
-      440,
-      21,
-      "Fish Creek",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 30 2025 00:00:00",
-      127,
-      440,
-      21,
-      "Fish Creek",
-      "Pink"
-    ],
-    [
-      2025,
-      "July, 31 2025 00:00:00",
-      123,
-      440,
-      21,
-      "Fish Creek",
-      "Pink"
-    ],
-    [
-      2025,
-      "August, 02 2025 00:00:00",
-      44,
-      440,
-      21,
-      "Fish Creek",
-      "Pink"
-    ],
-    [
-      2025,
-      "August, 04 2025 00:00:00",
-      99,
-      440,
-      21,
-      "Fish Creek",
-      "Pink"
-    ],
-    [
-      2025,
-      "August, 05 2025 00:00:00",
-      24,
-      440,
-      21,
-      "Fish Creek",
-      "Pink"
-    ],
-    [
-      2025,
-      "August, 06 2025 00:00:00",
-      88,
-      440,
-      21,
-      "Fish Creek",
-      "Pink"
     ]
   ],
-  "metadata": {
-    "location_id": "21",
-    "species_id": "440",
-    "year": "2025",
-    "totalRecords": 15,
-    "totalCount": 566,
-    "source": "ADFG JSON API",
-    "last_updated": "2025-08-07T23:39:24.129006"
-  }
+  "last_updated": "2025-07-26T21:32:58.917558+00:00"
 }
