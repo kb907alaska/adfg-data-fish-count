@@ -11,6 +11,69 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      234,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      315,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      168,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      229,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      535,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      535,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      202,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
       "July, 06 2025 00:00:00",
       0,
       420,
@@ -49,6 +112,15 @@
       2025,
       "July, 10 2025 00:00:00",
       5,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      0,
       420,
       8,
       "Eshamy Creek",
@@ -179,7 +251,70 @@
       8,
       "Eshamy Creek",
       "Sockeye"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      2,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      32,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      16,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      24,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      60,
+      420,
+      8,
+      "Eshamy Creek",
+      "Sockeye"
     ]
   ],
-  "last_updated": "2025-07-26T21:32:58.505835+00:00"
-}
+  "last_updated": "2025-07-26T21:32:58.505835+00:00",
+  "metadata": {
+    "totalRecords": 32,
+    "totalCount": 2426,
+    "daysWithData": 27,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-08T19:07:47.778991",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-08T19:07:47.778994",
+        "newRecords": 13,
+        "updatedRecords": 0,
+        "unchangedRecords": 19,
+        "totalRecords": 32
+      }
+    ]
+  },
+  "record_update_times": {
+    

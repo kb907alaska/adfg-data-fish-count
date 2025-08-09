@@ -11,13 +11,112 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      26,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      94,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      37,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      22,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      110,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      145,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      111,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
       "July, 25 2025 00:00:00",
       1,
       440,
       8,
       "Eshamy Creek",
       "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      3,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      2,
+      440,
+      8,
+      "Eshamy Creek",
+      "Pink"
     ]
   ],
-  "last_updated": "2025-07-26T21:32:58.734350+00:00"
-}
+  "last_updated": "2025-07-26T21:32:58.734350+00:00",
+  "metadata": {
+    "totalRecords": 10,
+    "totalCount": 551,
+    "daysWithData": 10,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-08T19:07:50.955230",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-08T19:07:50.955231",
+        "newRecords": 9,
+        "updatedRecords": 0,
+        "unchangedRecords": 1,
+        "totalRecords": 10
+      }
+    ]
+  },
+  "record_update_times": {
+    

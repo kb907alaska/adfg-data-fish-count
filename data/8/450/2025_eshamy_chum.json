@@ -11,6 +11,69 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      70,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      41,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      21,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      13,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      11,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      21,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      1,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
       "July, 07 2025 00:00:00",
       49,
       450,
@@ -179,7 +242,70 @@
       8,
       "Eshamy Creek",
       "Chum"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      31,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      63,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      26,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      37,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      39,
+      450,
+      8,
+      "Eshamy Creek",
+      "Chum"
     ]
   ],
-  "last_updated": "2025-07-26T21:32:57.766437+00:00"
-}
+  "last_updated": "2025-07-26T21:32:57.766437+00:00",
+  "metadata": {
+    "totalRecords": 31,
+    "totalCount": 1177,
+    "daysWithData": 31,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-08T19:07:51.769131",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-08T19:07:51.769136",
+        "newRecords": 12,
+        "updatedRecords": 0,
+        "unchangedRecords": 19,
+        "totalRecords": 31
+      }
+    ]
+  },
+  "record_update_times": {
+    

@@ -170,15 +170,24 @@
       9,
       "Anchor River",
       "Coho"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      115,
+      430,
+      9,
+      "Anchor River",
+      "Coho"
     ]
   ],
   "metadata": {
     "location_id": "9",
     "species_id": "430",
     "year": "2025",
-    "totalRecords": 18,
-    "totalCount": 199,
+    "totalRecords": 19,
+    "totalCount": 314,
     "source": "ADFG JSON API",
-    "last_updated": "2025-08-07T23:37:33.441498"
+    "last_updated": "2025-08-08T19:08:00.787632"
   }
 }

@@ -11,8 +11,8 @@
   "DATA": [
     [
       2025,
-      "June, 06 2025 00:00:00",
-      1,
+      "August, 01 2025 00:00:00",
+      4,
       410,
       5,
       "Situk River",
@@ -20,7 +20,7 @@
     ],
     [
       2025,
-      "June, 07 2025 00:00:00",
+      "August, 02 2025 00:00:00",
       0,
       410,
       5,
@@ -29,25 +29,7 @@
     ],
     [
       2025,
-      "June, 08 2025 00:00:00",
-      null,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 17 2025 00:00:00",
-      2,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 18 2025 00:00:00",
+      "August, 03 2025 00:00:00",
       0,
       410,
       5,
@@ -56,8 +38,8 @@
     ],
     [
       2025,
-      "June, 19 2025 00:00:00",
-      23,
+      "August, 04 2025 00:00:00",
+      0,
       410,
       5,
       "Situk River",
@@ -65,70 +47,7 @@
     ],
     [
       2025,
-      "June, 20 2025 00:00:00",
-      12,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 21 2025 00:00:00",
-      36,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 22 2025 00:00:00",
-      2,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 23 2025 00:00:00",
-      3,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 24 2025 00:00:00",
-      2,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 25 2025 00:00:00",
-      5,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 26 2025 00:00:00",
-      25,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 27 2025 00:00:00",
+      "August, 05 2025 00:00:00",
       6,
       410,
       5,
@@ -137,8 +56,8 @@
     ],
     [
       2025,
-      "June, 28 2025 00:00:00",
-      27,
+      "August, 06 2025 00:00:00",
+      9,
       410,
       5,
       "Situk River",
@@ -146,17 +65,8 @@
     ],
     [
       2025,
-      "June, 29 2025 00:00:00",
-      2,
-      410,
-      5,
-      "Situk River",
-      "Chinook"
-    ],
-    [
-      2025,
-      "June, 30 2025 00:00:00",
-      15,
+      "August, 07 2025 00:00:00",
+      1,
       410,
       5,
       "Situk River",
@@ -377,7 +287,241 @@
       5,
       "Situk River",
       "Chinook"
+    ],
+    [
+      2025,
+      "July, 25 2025 00:00:00",
+      75,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      22,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      26,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      10,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      4,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 06 2025 00:00:00",
+      1,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 07 2025 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 08 2025 00:00:00",
+      null,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      0,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      23,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      12,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      36,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      3,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      5,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      25,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      6,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      27,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      2,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      15,
+      410,
+      5,
+      "Situk River",
+      "Chinook"
     ]
   ],
-  "last_updated": "2025-07-25T19:00:13.056151+00:00"
-}
+  "last_updated": "2025-07-25T19:00:13.056151+00:00",
+  "metadata": {
+    "totalRecords": 55,
+    "totalCount": 1290,
+    "daysWithData": 49,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-08T19:07:12.110441",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-08T19:07:12.110446",
+        "newRecords": 14,
+        "updatedRecords": 0,
+        "unchangedRecords": 41,
+        "totalRecords": 55
+      }
+    ]
+  },
+  "record_update_times": {
+    

@@ -11,6 +11,69 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      90,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      90,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      164,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      166,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      71,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      158,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      163,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
       "July, 23 2025 00:00:00",
       0,
       430,
@@ -35,7 +98,79 @@
       16,
       "Little Susitna",
       "Coho"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      73,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      7,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      30,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      134,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      87,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
+    ],
+    [
+      2025,
+      "July, 31 2025 00:00:00",
+      99,
+      430,
+      16,
+      "Little Susitna",
+      "Coho"
     ]
   ],
-  "last_updated": "2025-07-26T21:32:59.423383+00:00"
-}
+  "last_updated": "2025-07-26T21:32:59.423383+00:00",
+  "metadata": {
+    "totalRecords": 16,
+    "totalCount": 1360,
+    "daysWithData": 15,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-08T19:08:47.160098",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-08T19:08:47.160102",
+        "newRecords": 13,
+        "updatedRecords": 0,
+        "unchangedRecords": 3,
+        "totalRecords": 16
+      }
+    ]
+  },
+  "record_update_times": {
+    

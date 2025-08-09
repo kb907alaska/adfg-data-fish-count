@@ -11,6 +11,69 @@
   "DATA": [
     [
       2025,
+      "August, 01 2025 00:00:00",
+      84,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      83,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      79,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      54,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      33,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      94,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      33,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
       "July, 24 2025 00:00:00",
       62,
       440,
@@ -26,7 +89,70 @@
       16,
       "Little Susitna",
       "Pink"
+    ],
+    [
+      2025,
+      "July, 26 2025 00:00:00",
+      56,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 27 2025 00:00:00",
+      21,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 28 2025 00:00:00",
+      31,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 29 2025 00:00:00",
+      51,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
+    ],
+    [
+      2025,
+      "July, 30 2025 00:00:00",
+      25,
+      440,
+      16,
+      "Little Susitna",
+      "Pink"
     ]
   ],
-  "last_updated": "2025-07-26T21:32:57.505357+00:00"
-}
+  "last_updated": "2025-07-26T21:32:57.505357+00:00",
+  "metadata": {
+    "totalRecords": 14,
+    "totalCount": 738,
+    "daysWithData": 14,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-08T19:08:47.944981",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-08T19:08:47.944987",
+        "newRecords": 12,
+        "updatedRecords": 0,
+        "unchangedRecords": 2,
+        "totalRecords": 14
+      }
+    ]
+  },
+  "record_update_times": {
+    
