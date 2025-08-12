@@ -2485,17 +2485,17 @@
         "total_files": 8
       },
       "72": {
-        "slug": "kenai-river-chinook-chinook-late",
+        "slug": "kenai-river-chinook-chinook-late-run",
         "species": {
           "412": {
-            "slug": "run",
+            "slug": "kenai-river-chinook-chinook-late-run",
             "years": [
               2025
             ],
             "total_files": 1
           },
           "411": {
-            "slug": "run",
+            "slug": "kenai-river-chinook-chinook-early-run",
             "years": [
               2025
             ],
