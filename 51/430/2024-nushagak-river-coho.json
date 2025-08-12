@@ -1,0 +1,45 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 24 2024 00:00:00",
+      970,
+      430,
+      51,
+      "Nushagak River",
+      "Coho"
+    ],
+    [
+      2024,
+      "July, 25 2024 00:00:00",
+      687,
+      430,
+      51,
+      "Nushagak River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "last_downloaded": "2025-08-11T12:34:40.607088",
+    "download_source": "ADFG Fish Counts API",
+    "location_id": 51,
+    "species_id": 430,
+    "year": 2024,
+    "location_name": "Nushagak River",
+    "species_name": "Coho Salmon",
+    "total_records": 2,
+    "data_range": {
+      "start_date": "July, 24 2024 00:00:00",
+      "end_date": "July, 25 2024 00:00:00"
+    }
+  }
+}

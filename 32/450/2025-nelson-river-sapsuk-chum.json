@@ -1,0 +1,171 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      6,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      1,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      26,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      16,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      27,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      27,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      30,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      24,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      73,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      140,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      341,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      156,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      184,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      3,
+      450,
+      32,
+      "Nelson River (Sapsuk)",
+      "Chum"
+    ]
+  ],
+  "last_updated": "2025-07-22T23:23:23.998469+00:00",
+  "metadata": {
+    "totalRecords": 14,
+    "totalCount": 1054,
+    "daysWithData": 14,
+    "latestDate": 2025,
+    "lastUpdated": "2025-08-12T11:38:26.856987",
+    "updateCount": 1,
+    "mergeHistory": [
+      {
+        "timestamp": "2025-08-12T11:38:26.856990",
+        "newRecords": 0,
+        "updatedRecords": 0,
+        "unchangedRecords": 14,
+        "totalRecords": 14
+      }
+    ]
+  },
+  "record_update_times": {},
+  "merge_info": {
+    "new_records_added": 0,
+    "existing_records_updated": 0,
+    "unchanged_records": 14,
+    "total_records": 14,
+    "merge_timestamp": "2025-08-12T11:38:26.856995",
+    "data_freshness": {
+      "latest_date": 2025,
+      "days_with_data": 14,
+      "total_count": 1054,
+      "total_records": 14
+    }
+  }
+}

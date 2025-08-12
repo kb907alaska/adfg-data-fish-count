@@ -1,0 +1,23 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "July, 27 2024 00:00:00",
+      1,
+      410,
+      8,
+      "Eshamy Creek",
+      "Chinook"
+    ]
+  ],
+  "last_updated": "July, 27 2024 00:00:00"
+}

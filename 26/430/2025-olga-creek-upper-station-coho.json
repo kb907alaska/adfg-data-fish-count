@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "August, 01 2025 00:00:00",
+      1,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 02 2025 00:00:00",
+      2,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 03 2025 00:00:00",
+      1,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 04 2025 00:00:00",
+      0,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 05 2025 00:00:00",
+      2,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 06 2025 00:00:00",
+      1,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 07 2025 00:00:00",
+      15,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 08 2025 00:00:00",
+      33,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 09 2025 00:00:00",
+      81,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ],
+    [
+      2025,
+      "August, 10 2025 00:00:00",
+      111,
+      430,
+      26,
+      "Olga Creek (Upper Station)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": "26",
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 10,
+    "totalCount": 247,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-12T11:38:22.497714"
+  }
+}

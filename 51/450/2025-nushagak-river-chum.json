@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "June, 06 2025 00:00:00",
+      104,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 07 2025 00:00:00",
+      327,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 08 2025 00:00:00",
+      281,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 09 2025 00:00:00",
+      317,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 10 2025 00:00:00",
+      1598,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 11 2025 00:00:00",
+      3031,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 12 2025 00:00:00",
+      1409,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 13 2025 00:00:00",
+      289,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 14 2025 00:00:00",
+      154,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 15 2025 00:00:00",
+      12037,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 16 2025 00:00:00",
+      24789,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 17 2025 00:00:00",
+      6357,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 18 2025 00:00:00",
+      501,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 19 2025 00:00:00",
+      630,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 20 2025 00:00:00",
+      3764,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 21 2025 00:00:00",
+      22227,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 22 2025 00:00:00",
+      63036,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 23 2025 00:00:00",
+      9080,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 24 2025 00:00:00",
+      19300,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 25 2025 00:00:00",
+      16926,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 26 2025 00:00:00",
+      28006,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 27 2025 00:00:00",
+      35936,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 28 2025 00:00:00",
+      15465,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 29 2025 00:00:00",
+      6347,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "June, 30 2025 00:00:00",
+      6933,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 01 2025 00:00:00",
+      4435,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 02 2025 00:00:00",
+      10529,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 03 2025 00:00:00",
+      6165,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 04 2025 00:00:00",
+      3877,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 05 2025 00:00:00",
+      4556,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 06 2025 00:00:00",
+      9567,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 07 2025 00:00:00",
+      6459,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 08 2025 00:00:00",
+      12304,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 09 2025 00:00:00",
+      5708,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 10 2025 00:00:00",
+      7516,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 11 2025 00:00:00",
+      1148,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 12 2025 00:00:00",
+      2135,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 13 2025 00:00:00",
+      2757,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 14 2025 00:00:00",
+      4432,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 15 2025 00:00:00",
+      1802,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 16 2025 00:00:00",
+      1194,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 17 2025 00:00:00",
+      1528,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 18 2025 00:00:00",
+      671,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 19 2025 00:00:00",
+      291,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 20 2025 00:00:00",
+      0,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 21 2025 00:00:00",
+      438,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 22 2025 00:00:00",
+      55,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 23 2025 00:00:00",
+      570,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ],
+    [
+      2025,
+      "July, 24 2025 00:00:00",
+      1385,
+      450,
+      51,
+      "Nushagak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": "51",
+    "species_id": "450",
+    "year": "2025",
+    "totalRecords": 49,
+    "totalCount": 368366,
+    "source": "ADFG JSON API",
+    "last_updated": "2025-08-12T11:38:39.311582"
+  }
+}
